@@ -1,0 +1,6 @@
+names:
+- fire
+nc: 1
+test: C:/Users/yuuki/Kaggle/object_detection_try/frame_vision/dataset/test/images
+train: C:/Users/yuuki/Kaggle/object_detection_try/frame_vision/dataset/train/images
+val: C:/Users/yuuki/Kaggle/object_detection_try/frame_vision/dataset/valid/images
